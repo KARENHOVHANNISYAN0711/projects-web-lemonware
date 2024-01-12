@@ -1,0 +1,371 @@
+@media only screen and (max-width:1286px){
+    .nav-list{
+        margin-left:60px;
+    }
+    .h3-time-text{
+        font-size:15px;
+    }
+    .h4-keep-text{
+        font-size:10px;
+    }
+    .month{
+        width:37%;
+    }
+    .basic-premium-about{
+        width:90%;
+    }
+    .header-acount-h3text{
+        display:none;
+    }
+}
+
+@media only screen and (max-width:1250px){
+    .nav-list>li>a{
+        font-size:13px;
+    }
+    .h4-lorem-text{
+        font-size:12px;
+    }
+    .h4-text-menu{
+        font-size:12px;
+    }
+    .footer-menu{
+        margin-top:30px;
+    }
+}
+
+@media only screen and (max-width:1210px){
+    .img-work{
+        width:400px;
+        height:400px;
+    }
+    .hosting-paragraf{
+        font-size:50px;
+    }
+}
+
+@media only screen and (max-width:1200px){
+    .h2-text-cloud-web-hosting{
+        font-size:35px;
+    }
+    .hosting-logo-img{
+        width:120px;
+        height:40px;
+    }
+}
+
+@media only screen and (max-width:1155px){
+    .nav-list>li>a{
+        font-size:11px;
+    }
+    .month{
+        width:47%;
+    }
+    .h3-month-text{
+        font-size:20px;
+    }
+    .section-basic-premium{
+        padding:20px;
+    }
+    .basic-premium-about{
+        width:90%;
+        flex-direction:column;
+    }
+    .starter-standrard-suprem{
+        margin:0 auto;
+        width:400px;
+    }
+}
+
+@media only screen and (max-width:1080px){
+    .h4-text-menu{
+        font-size:10px;
+    }
+}
+
+@media only screen and (max-width:1050px){
+    .nav-list>li>a{
+        font-size:10px;
+    }
+}
+
+@media only screen and (max-width:1030px){
+    .nav-list{
+        display:none;
+    }
+    .hosting-paragraf{
+        font-size:40px;
+    }
+    .img-work{
+        margin-top:50px;
+    }
+    .create-button{
+        width:130px;
+        font-size:10px;
+    }
+    .h4-text{
+        font-size:13px;
+    }
+    .hosting-logo-img{
+        margin-top:10px;
+    }
+}
+
+@media only screen and (max-width:950px){
+    .hosting-text-img{
+        flex-direction:column;
+    }
+    .hosting-contact{
+        margin:0 auto;
+    }
+    .hosting-text{
+        margin:0 auto;
+        text-align:center;
+    }
+    .create-button{
+        width:200px;
+        margin-left:70px;
+    }
+    .shoose-button{
+        width:200px;
+        margin-left:150px;
+        font-size:10px;
+    }
+    .img-work{
+        margin:0 auto;
+        margin-top:30px;
+    }
+    .month{
+        width:60%;
+    }
+    .h4-text{
+        font-size:13px;
+    }
+    .h2-text-cloud-web-hosting{
+        font-size:23px;
+    }
+    .hosting-logo{
+        width:350px;
+        padding-top:30px;
+        margin:0 auto;
+    }
+    /* .keep-img-par{
+        flex-direction:column;
+    } */
+    .keep-img-about{
+        width:40%;
+        margin:0 auto;
+    }
+    .h4-keep-text{
+        text-align:center;
+    }
+    .h3-time-text{
+        font-size:10px;
+    }
+    .hosting-text-par{
+        margin:0 auto;
+        text-align:center;
+    }
+    .section-weblogo{
+        flex-direction:column;
+    }
+}
+
+@media only screen and (max-width:700px){
+    .header-h3text{
+        font-size:12px;
+        margin-top:4px;
+    }
+    .phone{
+        height:15px;
+    }
+    .hosting-button{
+        /* width:300px; */
+     }
+     .create-button{
+        width:130px;
+        font-size:10px;
+        height:50px;
+     }
+     .shoose-button{
+        width:130px;
+        font-size:10px;
+        height:50px;
+     }
+}
+
+@media only screen and (max-width:670px){
+    .h3-choose-package-text{
+        font-size:15px;
+    }
+    .click{
+        width:83px;
+        height:40px;
+    }
+    .border-radius{
+        margin-top:5px; 
+    }
+    .month{
+        margin-left:90px;
+        width:400px;
+    }
+    .paragraf-started{
+        font-size:30px;
+    }
+    .section-hosting{
+        overflow:hidden;
+    }
+    .section-weblogo{
+        overflow:hidden;
+    }
+}
+
+@media only screen and (max-width:571px){
+    .section-hosting{
+        overflow:hidden;
+    }
+    .section-weblogo{
+        overflow:hidden;
+    } 
+}
+
+@media only screen and (max-width:570px){
+    .create-button{
+        width:120px;
+        font-size:9px;
+        height:50px;
+     }
+     .shoose-button{
+        width:100px;
+        font-size:8px;
+        height:50px;
+     }
+     .hosting-paragraf{
+        font-size:20px;
+    }
+    .paragraf-text{
+        font-size:14px;
+    }
+    .paragraf-started{
+        font-size:30px;
+    }
+    .h4-text{
+       padding-right:180px;
+       font-size:10px;
+    }
+    .h4-lorem-text{
+        font-size:10px;
+    }
+    .h3-choose-package-text{
+        font-size:18px;
+    }
+    .h3-month-text{
+        font-size:18px;
+    }
+    .h3-text{
+        font-size:15px;
+    }
+    .h2-text{
+        font-size:20px;
+    }
+    .h2-text-cloud-web-hosting{
+        padding-right:200px;
+        font-size:35px;
+    }
+    .month{
+        margin-left:30px;
+        width:400px;
+    }
+    .click{
+        width:83px;
+        height:40px;
+    }
+    .border-radius{
+        margin-top:5px; 
+    }
+    .starter-standrard-suprem{
+        width:300px;
+    }
+}
+
+@media only screen and (max-width:550px){
+    .hosting-paragraf{
+        margin-right:80px;
+    }
+    .hosting-contact{
+        margin-left:70px;
+    }
+    .paragraf-text{
+        margin-right:90px;
+    }
+    .hosting-button{
+        display:none;
+    }
+    .month{
+        padding-right:40px;
+    }
+}
+
+@media only screen and (max-width:485px){
+    .hosting-paragraf{
+        margin-right:100px;
+    }
+    .hosting-contact{
+        margin-right:150px;
+    }
+    .paragraf-text{
+        margin-right:100px;
+    }
+    .h2-text-cloud-web-hosting{
+        margin-right:20px;
+    }
+    .h4-text{
+        margin-right:40px;
+    }
+    .phone{
+        margin-top:4px;
+    }
+}
+
+@media only screen and (max-width:400px){
+    .header-h3text{
+        font-size:10px;
+    }
+    .phone{
+        font-size:8px;
+    }
+    .h4-keep-text{
+        font-size:6px;
+    }
+    .keep-img{
+        width:70px;
+    }
+    .paragraf-text{
+        font-size:11px;
+        padding-right:90px;
+    }
+    .month{
+        display:none;
+    }
+    .hosting-logo{
+        width:200px;
+    }
+    .hosting-paragraf{
+        padding-right:90px;
+    }
+    .hosting-contact{
+        width:45%;
+    }
+    .img-work{
+        width:200px;
+        height:200px;
+    }
+    .h2-text-cloud-web-hosting{
+        font-size:30px;
+        margin-right:90px;
+    }
+    .h4-text{
+        font-size:8px;
+        margin-right:120px;
+    }
+}
